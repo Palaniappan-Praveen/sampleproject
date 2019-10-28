@@ -1,2 +1,2 @@
 # sampleproject
-For learning purpose how to use github
+# For learning purpose how to use github
